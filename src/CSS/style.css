@@ -6,19 +6,19 @@ body {
 
 .jblock {
     background-color: #E5E5E5;
-    padding: 60px 80px 500px 30px;
+    padding: 60px 80px 350px 50px;
 }
 
 .jtitle {
     font-family: 'Permanent Marker';
-    font-size: 50px;
+    font-size: 70px;
     color: #8EA4A0;
-    padding-left: 60px;
+    padding-left: 100px;
 }
 
 .jimg img {
-    width: 460px;
-    height: 550px;
+    width: 659px;
+    height: 700px;
     float: left;
 }
 
