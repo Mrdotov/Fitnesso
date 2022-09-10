@@ -37,3 +37,41 @@ button:active {
     width: auto;
     height: auto;
 }
+
+
+/* Make the image responsive */
+
+
+/* Style the button and place it in the middle of the container/image */
+
+
+/* 
+.jimg .btn-r {
+    position: absolute;
+    top: 80%;
+    left: 80%;
+    background-color: #555;
+    color: white;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 5px;
+}
+
+.jimg .btn-l {
+    position: absolute;
+    top: 80%;
+    right: 80%;
+    background-color: #555;
+    color: white;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    display: flex;
+}
+
+.jimg .btn:hover {
+    background-color: black;
+} */
