@@ -85,3 +85,26 @@ body {
 
 
 /* Selection 3 */
+
+.doc-block {
+    margin: 50px;
+    padding: 100px;
+    color: #011581
+}
+
+.doc-title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 62px;
+}
+
+.doc-title p {
+    text-align: center;
+}
+
+.doc-btn {
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+}
