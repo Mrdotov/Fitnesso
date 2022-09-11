@@ -2,6 +2,7 @@
 
 body {
     font-family: 'Roboto', sans-serif;
+    color: #081158;
 }
 
 .jblock {
@@ -87,8 +88,8 @@ body {
 /* Selection 3 */
 
 .doc-block {
-    margin: 50px;
-    padding: 100px;
+    margin: 10px;
+    padding: 50px;
     color: #011581
 }
 
@@ -107,4 +108,87 @@ body {
     display: flex;
     justify-content: center;
     padding-top: 10px;
+}
+
+.advice {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 220px;
+    padding-top: 100px;
+}
+
+.advice- {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 100px;
+}
+
+.title1 {
+    padding-top: 30px;
+    font-size: 29px;
+    text-align: center;
+    padding-bottom: 60px;
+}
+
+.title2 {
+    padding-top: 30px;
+    font-size: 29px;
+    text-align: center;
+    padding-bottom: 60px;
+}
+
+.title3 {
+    padding-top: 30px;
+    font-size: 29px;
+    text-align: center;
+    padding-bottom: 60px;
+}
+
+.title4 {
+    padding-top: 30px;
+    padding-bottom: 60px;
+}
+
+.title4 p {
+    text-align: center;
+    font-size: 29px;
+}
+
+.ADsubtitle {
+    text-align: center;
+    line-height: 30px;
+    font-family: 'Red Hat Display', sans-serif;
+}
+
+
+/* Selection 4 */
+
+.change {
+    background-color: #EEF0F4;
+    padding: 100px;
+}
+
+.ctitle {
+    font-size: 86px;
+}
+
+.csubtitle {
+    padding-top: 20px;
+    line-height: 40px;
+    font-size: 20px;
+}
+
+.cimg {
+    padding-top: 40px;
+    display: flex;
+}
+
+.cimg img {
+    padding: 30px;
+    width: 420px;
+}
+
+.block {
+    background-color: #ffff;
+    width: 390px;
 }

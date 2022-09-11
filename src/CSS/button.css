@@ -3,11 +3,12 @@
     align-items: center;
     width: 155px;
     height: 50px;
-    color: #fff;
+    color: white;
     background-color: #081158;
     padding-left: 20px;
     margin-top: 18px;
     border-radius: 5px;
+    font-family: 'Roboto', sans-serif;
 }
 
 .btn img {
