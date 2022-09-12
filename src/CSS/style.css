@@ -221,3 +221,48 @@
                     padding-top: 15px;
                     padding-left: 40px;
                 }
+                /* Selector 5 */
+                
+                .Exercise-pg {
+                    background: #081158;
+                }
+                
+                .exp-block {
+                    padding-left: 60px;
+                }
+                
+                .expircise {
+                    padding: 100px;
+                }
+                
+                .Etitle {
+                    font-size: 86px;
+                    font-family: 'Roboto', sans-serif;
+                    color: #ffff;
+                }
+                
+                .Esubtitle {
+                    color: #ffff;
+                    padding-top: 20px;
+                    padding-bottom: 80px;
+                    line-height: 30px;
+                }
+                
+                .tagline {
+                    position: relative;
+                }
+                
+                .tagline img {
+                    width: 1640px;
+                    height: 560px;
+                }
+                
+                .centered {
+                    position: absolute;
+                    left: 50%;
+                    top: 50%;
+                    transform: translate(-50%, -50%);
+                    font-size: 64px;
+                    color: #ffff;
+                    font-family: 'Permanent Marker', cursive;
+                }
