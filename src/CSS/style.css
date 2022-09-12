@@ -1,194 +1,223 @@
-/* Selection 1 */
-
-body {
-    font-family: 'Roboto', sans-serif;
-    color: #081158;
-}
-
-.jblock {
-    background-color: #E5E5E5;
-    padding: 60px 80px 350px 50px;
-}
-
-.jtitle {
-    font-family: 'Permanent Marker';
-    font-size: 70px;
-    color: #8EA4A0;
-    padding-left: 100px;
-}
-
-.jimg {
-    position: relative;
-}
-
-.jimg img {
-    width: 659px;
-    height: 700px;
-    float: left;
-}
-
-.jtext {
-    padding-left: 80px;
-    padding-top: 60px;
-    color: #011581;
-    display: flex;
-    flex-direction: column;
-}
-
-.subtitle {
-    font-size: 16px;
-}
-
-.title {
-    font-size: 60px;
-    padding-top: 30px;
-    padding-bottom: 30px;
-}
-
-.description {
-    line-height: 25px;
-}
-
-.arrowBTN img {
-    width: auto;
-    height: auto;
-}
-
-.arrowBTN button {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    position: relative;
-    width: 100px;
-    height: 100px;
-    background: blue;
-    border: 4px solid rgb(2, 2, 92);
-    border-radius: 500px;
-    opacity: 1;
-}
-
-
-/* Selection 2 */
-
-.stat-block {
-    background-color: blue;
-    padding: 80px;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    color: #DFDFDF;
-}
-
-.stat-block p {
-    text-align: center;
-    line-height: 25px;
-}
-
-
-/* Selection 3 */
-
-.doc-block {
-    margin: 10px;
-    padding: 50px;
-    color: #011581
-}
-
-.doc-title {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-size: 62px;
-}
-
-.doc-title p {
-    text-align: center;
-}
-
-.doc-btn {
-    display: flex;
-    justify-content: center;
-    padding-top: 10px;
-}
-
-.advice {
-    display: flex;
-    justify-content: space-between;
-    padding-left: 220px;
-    padding-top: 100px;
-}
-
-.advice- {
-    display: flex;
-    justify-content: space-evenly;
-    padding-top: 100px;
-}
-
-.title1 {
-    padding-top: 30px;
-    font-size: 29px;
-    text-align: center;
-    padding-bottom: 60px;
-}
-
-.title2 {
-    padding-top: 30px;
-    font-size: 29px;
-    text-align: center;
-    padding-bottom: 60px;
-}
-
-.title3 {
-    padding-top: 30px;
-    font-size: 29px;
-    text-align: center;
-    padding-bottom: 60px;
-}
-
-.title4 {
-    padding-top: 30px;
-    padding-bottom: 60px;
-}
-
-.title4 p {
-    text-align: center;
-    font-size: 29px;
-}
-
-.ADsubtitle {
-    text-align: center;
-    line-height: 30px;
-    font-family: 'Red Hat Display', sans-serif;
-}
-
-
-/* Selection 4 */
-
-.change {
-    background-color: #EEF0F4;
-    padding: 100px;
-}
-
-.ctitle {
-    font-size: 86px;
-}
-
-.csubtitle {
-    padding-top: 20px;
-    line-height: 40px;
-    font-size: 20px;
-}
-
-.cimg {
-    padding-top: 40px;
-    display: flex;
-}
-
-.cimg img {
-    padding: 30px;
-    width: 420px;
-}
-
-.block {
-    background-color: #ffff;
-    width: 390px;
-}
+                /* Selection 1 */
+                
+                body {
+                    font-family: 'Roboto', sans-serif;
+                    color: #081158;
+                }
+                
+                .jblock {
+                    background-color: #E5E5E5;
+                    padding: 60px 80px 350px 50px;
+                }
+                
+                .jtitle {
+                    font-family: 'Permanent Marker';
+                    font-size: 70px;
+                    color: #8EA4A0;
+                    padding-left: 100px;
+                }
+                
+                .jimg {
+                    position: relative;
+                }
+                
+                .jimg img {
+                    width: 659px;
+                    height: 700px;
+                    float: left;
+                }
+                
+                .jtext {
+                    padding-left: 80px;
+                    padding-top: 60px;
+                    color: #011581;
+                    display: flex;
+                    flex-direction: column;
+                }
+                
+                .subtitle {
+                    font-size: 16px;
+                }
+                
+                .title {
+                    font-size: 60px;
+                    padding-top: 30px;
+                    padding-bottom: 30px;
+                }
+                
+                .description {
+                    line-height: 25px;
+                }
+                
+                .arrowBTN img {
+                    width: auto;
+                    height: auto;
+                }
+                
+                .arrowBTN button {
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    position: relative;
+                    width: 100px;
+                    height: 100px;
+                    background: blue;
+                    border: 4px solid rgb(2, 2, 92);
+                    border-radius: 500px;
+                    opacity: 1;
+                }
+                /* Selection 2 */
+                
+                .stat-block {
+                    background-color: blue;
+                    padding: 80px;
+                    display: flex;
+                    justify-content: space-around;
+                    align-items: center;
+                    color: #DFDFDF;
+                }
+                
+                .stat-block p {
+                    text-align: center;
+                    line-height: 25px;
+                }
+                /* Selection 3 */
+                
+                .doc-block {
+                    margin: 10px;
+                    padding: 50px;
+                    color: #011581
+                }
+                
+                .doc-title {
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    font-size: 62px;
+                }
+                
+                .doc-title p {
+                    text-align: center;
+                }
+                
+                .doc-btn {
+                    display: flex;
+                    justify-content: center;
+                    padding-top: 10px;
+                }
+                
+                .advice {
+                    display: flex;
+                    justify-content: space-between;
+                    padding-left: 220px;
+                    padding-top: 100px;
+                }
+                
+                .advice- {
+                    display: flex;
+                    justify-content: space-evenly;
+                    padding-top: 100px;
+                }
+                
+                .title1 {
+                    padding-top: 30px;
+                    font-size: 29px;
+                    text-align: center;
+                    padding-bottom: 60px;
+                }
+                
+                .title2 {
+                    padding-top: 30px;
+                    font-size: 29px;
+                    text-align: center;
+                    padding-bottom: 60px;
+                }
+                
+                .title3 {
+                    padding-top: 30px;
+                    font-size: 29px;
+                    text-align: center;
+                    padding-bottom: 60px;
+                }
+                
+                .title4 {
+                    padding-top: 30px;
+                    padding-bottom: 60px;
+                }
+                
+                .title4 p {
+                    text-align: center;
+                    font-size: 29px;
+                }
+                
+                .ADsubtitle {
+                    text-align: center;
+                    line-height: 30px;
+                    font-family: 'Red Hat Display', sans-serif;
+                }
+                /* Selection 4 */
+                
+                .change {
+                    background-color: #EEF0F4;
+                    padding: 100px;
+                }
+                
+                .change-block {
+                    padding-left: 60px;
+                }
+                
+                .ctitle {
+                    font-size: 86px;
+                }
+                
+                .csubtitle {
+                    padding-top: 20px;
+                    line-height: 40px;
+                    font-size: 20px;
+                }
+                
+                .cimg {
+                    padding-top: 40px;
+                    font-family: 'Red Hat Display', sans-serif;
+                    display: flex;
+                    justify-content: space-evenly;
+                }
+                
+                .cimg img {
+                    width: 350px;
+                }
+                
+                .block {
+                    padding-bottom: 25px;
+                    background-color: #ffffff;
+                    overflow: hidden;
+                    border: none;
+                }
+                
+                .tc {
+                    display: flex;
+                    justify-content: space-between;
+                }
+                
+                .tc p {
+                    padding-top: 25px;
+                    padding-left: 20px;
+                    padding-right: 20px;
+                }
+                
+                .price p {
+                    font-family: 'Permanent Marker', cursive;
+                    color: #EC8675;
+                }
+                
+                .card-title p {
+                    padding-top: 15px;
+                    padding-left: 20px;
+                    font-size: 21px;
+                    font-family: 'Roboto', sans-serif;
+                }
+                
+                .card-subtitle {
+                    padding-top: 15px;
+                    padding-left: 40px;
+                }
