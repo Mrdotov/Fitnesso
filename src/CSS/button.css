@@ -25,16 +25,16 @@ button:active {
     display: flex;
     align-items: center;
     width: 170px;
-    height: 40px;
+    height: 50px;
     color: #fff;
     background-color: #081158;
     margin-top: 18px;
     border-radius: 5px;
-    padding-right: 10px;
+    padding-right: 20px;
+    font-family: 'Roboto', sans-serif;
 }
 
 .nav-btn img {
-    padding-right: 8px;
     width: auto;
     height: auto;
 }

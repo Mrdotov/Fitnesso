@@ -253,7 +253,7 @@
                 }
                 
                 .tagline img {
-                    width: 1640px;
+                    width: 1481px;
                     height: 560px;
                 }
                 
@@ -265,4 +265,71 @@
                     font-size: 64px;
                     color: #ffff;
                     font-family: 'Permanent Marker', cursive;
+                }
+                /* selector 6 */
+                
+                .quest {
+                    padding-left: 40px;
+                }
+                
+                .quest img {
+                    float: right;
+                }
+                
+                .q-title {
+                    padding-top: 100px;
+                    font-size: 29px;
+                    padding-bottom: 20px;
+                    line-height: 70px;
+                    font-size: 60px;
+                }
+                
+                .q-subtitle {
+                    line-height: 30px;
+                    font-family: 'Red Hat Display', sans-serif;
+                }
+                
+                .background img {
+                    width: 1481px;
+                }
+                
+                .coun {
+                    padding-top: 80px;
+                }
+                
+                .C-coun img {
+                    padding-left: 55px;
+                    padding-bottom: 100px;
+                }
+                
+                .Ctitle p {
+                    display: flex;
+                    justify-content: center;
+                    font-size: 29px;
+                    padding-bottom: 20px;
+                    line-height: 70px;
+                    font-size: 60px;
+                }
+                
+                .Csubtitile {
+                    display: flex;
+                    justify-content: center;
+                    text-align: center;
+                    line-height: 30px;
+                }
+                
+                .cbtn {
+                    display: flex;
+                    justify-content: center;
+                    padding-bottom: 80px;
+                }
+                
+                .cont {
+                    background-color: #EEF0F4;
+                }
+                
+                .Contact-block {
+                    padding: 60px;
+                    background-color: #EC8675;
+                    width: 1500px;
                 }
