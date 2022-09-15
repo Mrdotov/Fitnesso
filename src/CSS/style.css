@@ -324,12 +324,83 @@
                     padding-bottom: 80px;
                 }
                 
+                .Contact-block {
+                    position: relative;
+                    background-color: #EC8675;
+                    width: 1480px;
+                    height: 200px;
+                    font-size: 20px;
+                    color: #fff;
+                    padding: 40px;
+                    display: flex;
+                    justify-content: space-evenly;
+                    align-items: center;
+                    z-index: 2;
+                }
+                
                 .cont {
+                    padding-top: 50px;
+                    padding-bottom: 50px;
                     background-color: #EEF0F4;
                 }
                 
-                .Contact-block {
-                    padding: 60px;
-                    background-color: #EC8675;
-                    width: 1500px;
+                .photo {
+                    display: flex;
+                    justify-content: space-between;
+                }
+                
+                .photo img {
+                    position: relative;
+                    top: 80px;
+                    width: 300px;
+                }
+                
+                .photo2 {
+                    display: flex;
+                    justify-content: space-between;
+                }
+                
+                .photo2 img {
+                    position: relative;
+                    z-index: 0;
+                    bottom: 50px;
+                    width: 300px;
+                }
+                
+                .img1 {
+                    display: flex;
+                    justify-content: center;
+                    text-align: center;
+                }
+                
+                .img1 p {
+                    padding-top: 15px;
+                    padding-left: 10px;
+                }
+                
+                .footers {
+                    padding: 100px;
+                    background-color: #081158;
+                }
+                
+                .LOGO {
+                    color: white;
+                }
+                
+                .text {
+                    color: #fff;
+                    display: flex;
+                    padding-left: 700px;
+                }
+                
+                .Explore {
+                    padding-left: 200px;
+                }
+                
+                .payment {
+                    padding-right: 50px;
+                }
+                
+                .payment img {
+                    padding: 30px;
                 }
