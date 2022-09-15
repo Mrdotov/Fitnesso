@@ -379,12 +379,14 @@
                 }
                 
                 .footers {
-                    padding: 100px;
+                    padding-top: 80px;
+                    padding-bottom: 80px;
                     background-color: #081158;
                 }
                 
                 .LOGO {
                     color: white;
+                    padding-left: 60px;
                 }
                 
                 .text {
@@ -398,9 +400,10 @@
                 }
                 
                 .payment {
-                    padding-right: 50px;
+                    padding-top: 50px;
+                    padding-right: 200px;
                 }
                 
                 .payment img {
-                    padding: 30px;
+                    padding-left: 60px;
                 }
